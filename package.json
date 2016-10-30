@@ -111,7 +111,7 @@
     "requirejs": "^2.3.0",
     "sanitize-filename": "^1.5.3",
     "sinon": "^1.15.3",
-    "source-map-support": "^0.4.2",
+    "source-map-support": "^0.4.6",
     "split-lines": "^1.0.0",
     "standard": "^8.0.0",
     "standard-version": "^3.0.0",
