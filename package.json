@@ -106,7 +106,7 @@
     "exists-sync": "0.0.3",
     "forking-tap": "^0.1.1",
     "is-windows": "^0.2.0",
-    "lodash": "^4.12.0",
+    "lodash": "^4.16.5",
     "newline-regex": "^0.2.1",
     "requirejs": "^2.3.0",
     "sanitize-filename": "^1.5.3",
